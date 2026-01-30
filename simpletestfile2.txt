@@ -1,2 +1,1 @@
-this my rvert test
 this my simple file2
