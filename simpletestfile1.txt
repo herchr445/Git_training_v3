@@ -1,2 +1,6 @@
 this my simple file1
- this is comparaison
+ this is comparaiso
+ n
+
+
+ changes done
